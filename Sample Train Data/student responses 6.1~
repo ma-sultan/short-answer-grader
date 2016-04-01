@@ -1,0 +1,26 @@
+6.1 Its a location in memory that contains the memory address of another location in memory that contains information. <STOP>
+6.1 A pointer is a variable that contains a memory address as its value. <STOP>
+6.1 A pointer is a variable which stores the address of another variable. <STOP>
+6.1 Pointers are variables that contain as their values memory addresses of other variables. <STOP>
+6.1 A data type whose value refers to another value stored elsewhere in the computer memory using its address. <STOP>
+6.1 a pointer holds a memory location <STOP>
+6.1 a name that represents actual location or value of a data type. int star of bPtr points to an integer value. <STOP>
+6.1 A variable that stores the address of another variable <STOP>
+6.1 a pointer is a programming language data type whose value refers directly to -LRB- or points to -RRB- another value stored elsewhere in the computer memory using its address <STOP>
+6.1 A data type whose value refers to another value stored somewhere else in the computer memory using its address. <STOP>
+6.1 It is like a variable however instead of holding data, it holds a location in memory. <STOP>
+6.1 A pointer is a reference to a location in memory <STOP>
+6.1 A pointer is a reference to the memory location of an object. <STOP>
+6.1 A pointer is a variable that contains the memory address of a variable that has a value. <STOP>
+6.1 It is a variable that contains not only a star of value but has a memory address associated with it, and can be moved along a string or an array by jumping up one memory address. <STOP>
+6.1 Contains a variable 's memory address as a value. <STOP>
+6.1 variable that points to the memory address of another variable and it is type specific. <STOP>
+6.1 An element that references a memory cell <STOP>
+6.1 Is a reference call to the place in memory where the object is stored. <STOP>
+6.1 a variable that contains the address of another variable <STOP>
+6.1 A pointer variable contains the number of a memory address as its value, which may be null or 0, or the address of some value stored in memory. <STOP>
+6.1 A pointer is a variable that contains a memory address of anther variable <STOP>
+6.1 A variable that contains the memory address of another variable that contains a specific value. <STOP>
+6.1 a variable with a memory address as the value <STOP>
+6.1 it is a type that points to something else. <STOP> It is the memory address of something else <STOP>
+6.1 A pointer is a way to get at another object. <STOP> Essentially it is a way to grab an instance of an object and then either pass that instance a message or retreive some data from that object. <STOP> A pointer is actually just an address of where an instance is held in memory. <STOP>

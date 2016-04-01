@@ -1,0 +1,30 @@
+2.7 the role of a header file list all the functions a class can do while hiding the inner workings of its functions <STOP>
+2.7 The main role of header file is it is used to share information among various files. <STOP>
+2.7 Header files separate files in which classes are defined and allow the compiler to recognize classes when used elsewhere. <STOP>
+2.7 No <STOP>
+2.7 A header file consists of "reusable" source code such as a class in a file that by convention has a. h filename extension. <STOP> This differs from. cpp files that contain "source-code." <STOP>
+2.7 To provide information about the contents of a library. <STOP> It includes the definition of classes, declarations of functions, data types, and constants. <STOP>
+2.7 the header file shows the user what types go into and come out of a function but does not allow a user to manipulate the actual code for the function. <STOP>
+2.7 Header files declares the class member functions. <STOP>
+2.7 A header file allows for the separation of declaration and implementation into separate files. <STOP>
+2.7 the header file has access to the C plus plus Standard Library and makes certain classes like class string work. <STOP>
+2.7 Instruct the compiler on how to interface with library and user-written components. <STOP>
+2.7 create a comon area to contain reusable functions. <STOP>
+2.7 to declare the functions being used in the classes <STOP>
+2.7 include "hat. h" allows the use of the hat container, so called from the act of pulling names from a hat. <STOP> The header file for hat includes functions for storage and retrieval of it is contents, mainly put -LRB- -RRB- , peek -LRB- -RRB- , and pull -LRB- -RRB- . <STOP>
+2.7 To hold reusable content or modules separate from the actual source-code file that can be easily referenced and employed for different programs. <STOP>
+2.7 a header file is a file used to store a list of prototye functions and data members. <STOP>
+2.7 A header file is a cross communication method between source files, to help limit the size of each individual program. <STOP> Without header files a program will be 1 large lump of code and thus fairly hard to debug and traverse. <STOP>
+2.7 It contains reusable source code for use by other classes. <STOP>
+2.7 to separate the source code from the main function, allows the methods or classes to be included in the program without direct coding. allows re usability. <STOP>
+2.7 Header files have reusable source code in a file that a programer can use. <STOP>
+2.7 To hide the definition and details of a class. <STOP> Also to help readability of the main C plus plus file. <STOP>
+2.7 To allow the compiler to recognize the classes when used elsewhere. <STOP>
+2.7 A header file declares a class, its data, and functions available through that class. <STOP>
+2.7 header files contain code which can be used in multiple files <STOP>
+2.7 Allow compiler to recognize the classes when used elsewhere <STOP>
+2.7 Allow compiler to recognize the classes when used elsewhere <STOP>
+2.7 To promote function reusuablitly <STOP>
+2.7 class definitions are placed here <STOP>
+2.7 A header file usually contains class and function prototypes. <STOP>
+2.7 contains all the standard C plus plus library 's i. e. string <STOP>

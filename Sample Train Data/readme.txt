@@ -1,0 +1,1 @@
+These examples are taken from the dataset reported by Mohler, Bunescu, and Mihalcea in the paper "Learning to Grade Short Answer Questions using Semantic Similarity Measures and Dependency Graph Alignments."
