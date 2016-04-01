@@ -4,8 +4,8 @@ This is an automatic short answer grading system written in Python. Given a ques
 
 ## Requirements
 
-1) NLTK
-2) Scikit-learn
+1) NLTK  
+2) Scikit-learn  
 3) The [Python wrapper for Stanford CoreNLP](https://github.com/dasmith/stanford-corenlp-python)
 
 ## Installation and Usage
