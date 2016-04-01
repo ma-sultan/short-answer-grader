@@ -9,14 +9,14 @@ This is an automatic short answer grading system written in Python. Given a ques
 3) The [Python wrapper for Stanford CoreNLP](https://github.com/dasmith/stanford-corenlp-python)
 
 ## Installation and Usage
-1) Make sure the requirements are installed.
-2) Change the statement "rel, left, right = map(lambda x: remove_id(x), split_entry)" in **corenlp.py** to "rel, left, right = split_entry".
+1) Make sure the requirements are installed.  
+2) Change the statement "rel, left, right = map(lambda x: remove_id(x), split_entry)" in **corenlp.py** to "rel, left, right = split_entry".  
 3) Download the grader:  
 
 	  git clone https://github.com/ma-sultan/short-answer-grader
-4) Download the word embeddings by Baroni, Dinu, and Kruszewski from [this link](http://clic.cimec.unitn.it/composes/semantic-vectors.html) (the "Best predict vectors") and put the file in the Resources directory.
+4) Download the word embeddings by Baroni, Dinu, and Kruszewski from [this link](http://clic.cimec.unitn.it/composes/semantic-vectors.html) (the "Best predict vectors") and put the file in the Resources directory.  
 5) Run the **corenlp.py** script to launch the server:  
 
 	  python corenlp.py
-6) To run the pretrained grader, run **pretrainedGrader.py**.
+6) To run the pretrained grader, run **pretrainedGrader.py**.  
 7) To train a new grader and apply to a test item, run **trainAndApplyGrader.py**.
